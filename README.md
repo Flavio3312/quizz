@@ -1,5 +1,8 @@
 # Quizz
 
+WEB app funcionando :https://flavioquizz.netlify.app
+demo:              https://flavioquizz.netlify.app
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.2.
 
 ## Development server
